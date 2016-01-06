@@ -30,20 +30,17 @@ h3{
   text-align: right;
 }
 
-h2.intro{
 
-  font-variant: small-caps;
-}
-
-p.intro{
+.intro{
   font-family: fantasy;
   font-weight: bolder;
+  font-variant: small-caps;
 }
 
 img.intro{
   margin-left: 40px;
   border-style: groove;
-  
+
 
 
 }
