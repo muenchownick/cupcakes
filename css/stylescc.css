@@ -1,0 +1,55 @@
+h1{
+  text-align: center;
+  color: pink;
+  font-style: oblique;
+}
+
+h3{
+  color: purple;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+.extro{
+  text-align: center;
+  font-size: 18px;
+  font-variant: small-caps;
+  color: purple;
+  font-family: cursive;
+}
+
+.flashy{
+  color: red;
+  font-style: italic;
+}
+
+.best{
+  font-stretch: extra-expanded;
+  text-decoration: underline;
+  text-transform: capitalize;
+  text-align: right;
+}
+
+h2.intro{
+
+  font-variant: small-caps;
+}
+
+p.intro{
+  font-family: fantasy;
+  font-weight: bolder;
+}
+
+img.intro{
+  margin-left: 40px;
+  border-style: groove;
+  
+
+
+}
+
+body.boring{
+  background-color: lightblue;
+  border-style: dotted;
+
+}
