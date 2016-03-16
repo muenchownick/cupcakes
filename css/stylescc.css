@@ -3,50 +3,51 @@ h1{
   color: pink;
   font-style: oblique;
 }
+h2{
+  text-align: center;
+  text-decoration: underline;
 
+}
 h3{
   color: purple;
   font-variant: small-caps;
   text-align: center;
 }
-
 .extro{
   text-align: center;
   font-size: 18px;
   font-variant: small-caps;
   color: purple;
   font-family: cursive;
+  border: 1px dotted pink;
 }
-
 .flashy{
   color: red;
   font-style: italic;
 }
-
 .best{
   font-stretch: extra-expanded;
   text-decoration: underline;
   text-transform: capitalize;
   text-align: right;
 }
-
-
 .intro{
   font-family: fantasy;
   font-weight: bolder;
   font-variant: small-caps;
 }
-
 img.intro{
   margin-left: 40px;
   border-style: groove;
-
-
-
 }
-
 body.boring{
   background-color: lightblue;
   border-style: dotted;
-
+}
+body.fun{
+  background-color: #CC6699;
+}
+section{
+  border: 3px solid black;
+  margin: 5px;
 }
